@@ -59,7 +59,7 @@ const About = () => {
                 </h3>
                 <h3>
                   {" "}
-                  <span>experience : </span> 1 years{" "}
+                  <span>experience : </span> 2 years{" "}
                 </h3>
                 <h3>
                   {" "}

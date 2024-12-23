@@ -34,7 +34,7 @@ function Home() {
             <h3>Hi, I'm</h3>
             <h3>Tanaya</h3>
             <span>front-end developer</span>
-            <p>I am an experienced front-end developer with expertise in ReactJS, Redux hooks, and other state management libraries. I have a strong understanding of HTML5, CSS, Bootstrap, and JavaScript, along with backend skills in Node.js, ExpressJS, and Microsoft SQL Database. I am also familiar with ES6, Webpack, Git, and GitHub. As a quick learner with excellent communication skills, I am adept at building responsive, modern web applications.</p>
+            <p>I am an experienced front-end developer with expertise in ReactJS, Redux hooks, and other state management libraries. I have a strong understanding of HTML5, CSS3, Bootstrap, and JavaScript, along with backend skills in Node.js, ExpressJS, MongoDB, RestAPI and Microsoft SQL Database. I am also familiar with ES6, Webpack, Git, and GitHub. As a quick learner with excellent communication skills, I am adept at building responsive, modern web applications.</p>
             <a href="about" class="btn"> About Me <i class="fas fa-user"></i> </a>
         </div>
     </section>

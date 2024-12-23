@@ -159,10 +159,10 @@ const About = () => {
             <img src="Images/mysql.png" alt="MySQL" />
             <h3>MySql</h3>
           </div>
-          <div className="box">
+          {/* <div className="box">
             <img src="Images/springboot.png" alt="SpringBoot" />
             <h3>SpringBoot</h3>
-          </div>
+          </div> */}
           <div className="box">
             <img src="Images/nodejs.png" alt="Node.js" />
             <h3>Node.js</h3>
